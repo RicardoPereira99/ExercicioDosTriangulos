@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class ExercícioDosTriângulos {
 
     public static void main(String[] args) {
-
+        
+        System.out.printf("O Ricardo é o maior");
+        
         Scanner LeitorDeString = new Scanner(System.in);
         Scanner LeitorDeLados = new Scanner(System.in);
         Scanner LeitorDeAngulos = new Scanner(System.in);
